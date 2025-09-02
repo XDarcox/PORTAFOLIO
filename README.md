@@ -22,6 +22,7 @@ Este es mi portafolio personal como **Ingeniero de Sistemas Empresariales**, des
 ## 🌐 Demo
 Este portafolio está desplegado en [GitHub Pages](https://github.com/XDarcox/PORTAFOLIO) 
 
+<img width="1688" height="900" alt="asa" src="https://github.com/user-attachments/assets/c3ea0a10-c659-4f14-9743-233f96facf8c" />
 
 1. index.html
 
@@ -39,7 +40,8 @@ Footer con enlaces a LinkedIn, GitHub y Twitter.
 
 2. css/style.css
 
-Aquí está todo el diseño (colores, tipografía, animaciones, responsive).
+Aquí está todo el diseño (colores, <img width="1688" height="900" alt="asa" src="https://github.com/user-attachments/assets/8eeff380-adfd-4e1a-87e4-ea16beee04d0" />
+tipografía, animaciones, responsive).
 
 Definición de variables (--primary-color, --secondary-color, etc.).
 
